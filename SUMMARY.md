@@ -13,6 +13,7 @@
   * [Advisors](team/advisors.md)
   * [Partner](team/partner.md)
 * [Social Channel](social-channel.md)
+* [Roadmap](roadmap.md)
 * [Exchange migration guide](exchange-migration-guide.md)
 * [ZUKI Core upgrade](zuki-core-upgrade/README.md)
   * [Exchange migration guide](zuki-core-upgrade/exchange-migration-guide.md)
